@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://iprakhartiwari.github.io/react-ciccd-actions",
+  "homepage": "https://iramsk02.github.io/CICD",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
